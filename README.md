@@ -1,2 +1,2 @@
-# Python-Built-in-functions
+# Built-in-functions
 Examples
